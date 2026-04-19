@@ -19,6 +19,8 @@ The primary objectives of this repository are:
 
 ## Experiments Included
 
+## Experiments Included
+
 ### Experiment 1: GPIO LED Control
 - Configuration of GPIO as output  
 - Control of onboard LED  
@@ -42,6 +44,18 @@ The primary objectives of this repository are:
 ### Experiment 6: FreeRTOS Task Implementation
 - Task creation using FreeRTOS  
 - Scheduler-based execution  
+
+### Experiment 7: FreeRTOS Task Priority
+- Implementation of multiple tasks with different priorities  
+- Analysis of priority-based scheduling  
+
+### Experiment 8: Semaphore with Interrupt (EXTI)
+- External interrupt handling using push button  
+- Task synchronization using binary semaphore  
+
+### Experiment 9: Queue Communication (Producer-Consumer)
+- Inter-task communication using FreeRTOS queue  
+- Data transfer between producer and consumer tasks   
 
 ---
 
